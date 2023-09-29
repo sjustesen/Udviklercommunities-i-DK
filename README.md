@@ -13,6 +13,7 @@ devfromdk (at) protonmail.com eller PR.
 https://www.meetup.com/anugdk/  (website)  
 https://www.facebook.com/groups/13579470244/ (social)  
 
+
 **Copenhagen .NET User Group**  
 https://www.cnug.dk (website)  
 https://www.meetup.com/Copenhagen-Net-User-Group/ (social)    
@@ -24,6 +25,9 @@ https://www.facebook.com/cphdotnet/ (social)
 **CopenhagenJS**  
 https://copenhagenjs.dk/ (website)  
 https://www.meetup.com/copenhagenjs/ (social)
+https://twitter.com/copenhagenjs (social)
+https://www.youtube.com/channel/UCOD8lwED5PAcgmhwymQJsng (videoer)
+https://github.com/copenhagenjs/copenhagenjs.dk (koderepo)
 
 ## Python
 
