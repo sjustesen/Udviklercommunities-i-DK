@@ -24,8 +24,8 @@ https://www.facebook.com/cphdotnet/ (social)
 
 ## Elixir
 
-**CPHEx**
-https://github.com/cphex/cphex/issues
+**CPHEx**  
+https://github.com/cphex/cphex/issues    
 (mødedatoer aftales via issues-sektionen)
 
 ## Javascript
