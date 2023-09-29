@@ -13,6 +13,12 @@ devfromdk (at) protonmail.com eller PR.
 https://www.meetup.com/anugdk/  (website)  
 https://www.facebook.com/groups/13579470244/ (social)  
 
+## Javascript
+
+**CopenhagenJS**
+https://copenhagenjs.dk/ (website)  
+https://www.meetup.com/copenhagenjs/
+
 ## Python
 
 **Django Danmark**  
