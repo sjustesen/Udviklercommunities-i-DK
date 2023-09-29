@@ -5,6 +5,9 @@ Forslag velkomne!
 
 devfromdk (at) protonmail.com eller PR.
 
+Mirror findes også på Github:   
+https://github.com/sjustesen/Udviklercommunities-i-DK
+
 # Fællesskaber
 
 ## .NET
