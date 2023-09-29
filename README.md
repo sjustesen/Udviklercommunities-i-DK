@@ -24,9 +24,9 @@ https://www.facebook.com/cphdotnet/ (social)
 
 **CopenhagenJS**  
 https://copenhagenjs.dk/ (website)  
-https://www.meetup.com/copenhagenjs/ (social)
-https://twitter.com/copenhagenjs (social)
-https://www.youtube.com/channel/UCOD8lwED5PAcgmhwymQJsng (videoer)
+https://www.meetup.com/copenhagenjs/ (social)  
+https://twitter.com/copenhagenjs (social)  
+https://www.youtube.com/channel/UCOD8lwED5PAcgmhwymQJsng (videoer)  
 https://github.com/copenhagenjs/copenhagenjs.dk (koderepo)
 
 ## Python
