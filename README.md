@@ -13,6 +13,12 @@ devfromdk (at) protonmail.com eller PR.
 https://www.meetup.com/anugdk/  (website)  
 https://www.facebook.com/groups/13579470244/ (social)  
 
+**Copenhagen .NET User Group**  
+https://www.cnug.dk (website)  
+https://www.meetup.com/Copenhagen-Net-User-Group/ (social)    
+https://twitter.com/cphdotnet (social)  
+https://www.facebook.com/cphdotnet/ (social)
+
 ## Javascript
 
 **CopenhagenJS**  
