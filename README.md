@@ -15,7 +15,7 @@ https://www.facebook.com/groups/13579470244/ (social)
 
 ## Javascript
 
-**CopenhagenJS**
+**CopenhagenJS**  
 https://copenhagenjs.dk/ (website)  
 https://www.meetup.com/copenhagenjs/
 
