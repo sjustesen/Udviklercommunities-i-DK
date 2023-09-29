@@ -10,7 +10,7 @@ devfromdk (at) protonmail.com eller PR.
 ## .NET
 
 **Aarhus .NET User Group (ANUG)**  
-https://www.meetup.com/anugdk/  (website)
+https://www.meetup.com/anugdk/  (website)  
 https://www.facebook.com/groups/13579470244/ (social)  
 
 ## Python
