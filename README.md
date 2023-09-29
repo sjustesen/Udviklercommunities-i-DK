@@ -10,23 +10,23 @@ devfromdk (at) protonmail.com eller PR.
 ## Python
 
 **Django Danmark**  
-https://www.django-denmark.org/   
-https://fosstodon.org/@djangodenmark 
+https://www.django-denmark.org/ (website) 
+https://fosstodon.org/@djangodenmark (social)
 
 ## Ruby
 
 **aarhus.rb** 
-https://www.meetup.com/aarhusrb/ (web)
+https://www.meetup.com/aarhusrb/ (website)
 
 
 ## Rust
 
 **Copenhagen Rust Community**   
-https://cph.rs/ (web)  
-https://www.youtube.com/@copenhagenrustcom  
+https://cph.rs/ (Website)  
+https://www.youtube.com/@copenhagenrustcom (videoer)
 
 **Rust Aarhus**  
-https://www.meetup.com/rust-aarhus/  
-https://twitter.com/rustaarhus  
+https://www.meetup.com/rust-aarhus/ (website) 
+https://twitter.com/rustaarhus (social) 
 
 
