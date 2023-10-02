@@ -39,7 +39,7 @@ https://github.com/copenhagenjs/copenhagenjs.dk (koderepo)
 
 ## Julia
 
-**Copenhagen Julia Meetup Group**
+**Copenhagen Julia Meetup Group**  
 https://www.meetup.com/copenhagen-julia-meetup-group/ (social)
 
 ## Python
