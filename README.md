@@ -37,6 +37,11 @@ https://twitter.com/copenhagenjs (social)
 https://www.youtube.com/channel/UCOD8lwED5PAcgmhwymQJsng (videoer)  
 https://github.com/copenhagenjs/copenhagenjs.dk (koderepo)
 
+## Julia
+
+**Copenhagen Julia Meetup Group**
+https://www.meetup.com/copenhagen-julia-meetup-group/ (social)
+
 ## Python
 
 **Django Danmark**  
